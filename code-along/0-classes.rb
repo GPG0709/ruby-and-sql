@@ -4,5 +4,10 @@
 # rails runner code-along/0-classes.rb
 
 # String Class
+guillermos_food = "Empanadas"
+bens_food = "tacos"
+
+puts guillermos_food.length
+puts bens_food.length
 
 # String Methods
